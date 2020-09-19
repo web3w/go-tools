@@ -5,6 +5,7 @@ go 1.15
 require (
 	github.com/flosch/pongo2 v0.0.0-20200913210552-0d938eb266f3
 	github.com/gisvr/golib v0.0.0-20200919090530-8c84ab4b5cb5
+	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.4.2
 	github.com/magiconair/properties v1.8.3
 	github.com/pkg/errors v0.9.1
